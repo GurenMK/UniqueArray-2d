@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class Assignment1 {
+public class Unique2DArray {
 
     public static void main(String[] args) {
       Scanner input = new Scanner(System.in);
